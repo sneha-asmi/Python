@@ -1,0 +1,3 @@
+git remote add github https://github.com/ishu3101/ConvertTo-Markdown
+git push github master
+git remote rename origin gist
